@@ -1,3 +1,0 @@
-# Lithuania - what?
-
-TODO.

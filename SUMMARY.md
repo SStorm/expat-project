@@ -4,12 +4,28 @@
 
 ## The Basics
 
-* [Lithuania - what?](the-basics/lithuania-what.md)
 * [Language crash course](the-basics/language-crash-course.md)
+
+## Moving
+
+* [Before you move](moving/before-you-move.md)
+* [After you have moved](moving/after-you-have-moved.md)
+
+## The Necessities
+
+* [Healthcare](the-necessities/healthcare.md)
+* [Banking](the-necessities/banking.md)
+* [Phone & Broadband](the-necessities/phone-and-broadband.md)
+* [Government Services](the-necessities/government-services.md)
+* [Online Shopping](the-necessities/online-shopping.md)
 
 ## Housing
 
-* [Renting](housing/renting.md)
+* [Renting](housing/renting/README.md)
+  * [Vilnius](housing/renting/vilnius.md)
+  * [Kaunas](housing/renting/kaunas.md)
+  * [Klaipėda](housing/renting/klaip-da.md)
+* [Buying](housing/buying.md)
 
 ## Education & Childcare
 
@@ -19,3 +35,4 @@
 ## Fun Stuff
 
 * [Sports](fun-stuff/sports.md)
+* [Going Out](fun-stuff/going-out.md)
