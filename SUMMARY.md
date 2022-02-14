@@ -4,12 +4,13 @@
 
 ## The Basics
 
-* [Language crash course](the-basics/language-crash-course.md)
+* [Cost of Living](the-basics/cost-of-living.md)
+* [Language Crash Course](the-basics/language-crash-course.md)
 
 ## Moving
 
-* [Before you move](moving/before-you-move.md)
-* [After you have moved](moving/after-you-have-moved.md)
+* [Before You Move](moving/before-you-move.md)
+* [After You Have Moved](moving/after-you-have-moved.md)
 
 ## The Necessities
 
@@ -26,6 +27,13 @@
   * [Kaunas](housing/renting/kaunas.md)
   * [Klaipėda](housing/renting/klaip-da.md)
 * [Buying](housing/buying.md)
+* [Utilities](housing/utilities.md)
+
+## Getting Around
+
+* [Public Transport](getting-around/public-transport.md)
+* [Renting a Car](getting-around/renting-a-car.md)
+* [Buying a Car](getting-around/buying-a-car.md)
 
 ## Education & Childcare
 
