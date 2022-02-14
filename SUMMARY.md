@@ -28,10 +28,12 @@
   * [Klaipėda](housing/renting/klaip-da.md)
 * [Buying](housing/buying.md)
 * [Utilities](housing/utilities.md)
+* [Student Accommodation](housing/student-accommodation.md)
 
 ## Getting Around
 
 * [Public Transport](getting-around/public-transport.md)
+* [Intercity Travel](getting-around/intercity-travel.md)
 * [Renting a Car](getting-around/renting-a-car.md)
 * [Buying a Car](getting-around/buying-a-car.md)
 
@@ -44,3 +46,7 @@
 
 * [Sports](fun-stuff/sports.md)
 * [Going Out](fun-stuff/going-out.md)
+
+## About
+
+* [About This Guide](about/about-this-guide.md)
