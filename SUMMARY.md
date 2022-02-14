@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Expats guide to Lithuania](README.md)
 
 ## The Company
 

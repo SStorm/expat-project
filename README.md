@@ -1,9 +1,7 @@
 ---
 coverY: 0
+description: Everything you need to know about living in this Baltic country
 ---
 
-# Welcome!
+# Expats guide to Lithuania
 
-## Welcome aboard!
-
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
