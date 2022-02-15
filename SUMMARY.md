@@ -1,9 +1,10 @@
 # Table of contents
 
-* [Expats guide to Lithuania](README.md)
+* [Expat Guide to Lithuania](README.md)
 
 ## The Basics
 
+* [What to Expect](the-basics/what-to-expect.md)
 * [Cost of Living](the-basics/cost-of-living.md)
 * [Language Crash Course](the-basics/language-crash-course.md)
 
@@ -19,6 +20,7 @@
 * [Phone & Broadband](the-necessities/phone-and-broadband.md)
 * [Government Services](the-necessities/government-services.md)
 * [Online Shopping](the-necessities/online-shopping.md)
+* [Groceries](the-necessities/groceries.md)
 
 ## Housing
 
@@ -30,10 +32,18 @@
 * [Utilities](housing/utilities.md)
 * [Student Accommodation](housing/student-accommodation.md)
 
+## Working
+
+* [Employment](working/employment.md)
+* [Looking for work](working/looking-for-work.md)
+* [Starting a business](working/starting-a-business.md)
+* [Personal Taxation](working/personal-taxation.md)
+
 ## Getting Around
 
 * [Public Transport](getting-around/public-transport.md)
 * [Intercity Travel](getting-around/intercity-travel.md)
+* [Driving](getting-around/driving.md)
 * [Renting a Car](getting-around/renting-a-car.md)
 * [Buying a Car](getting-around/buying-a-car.md)
 
